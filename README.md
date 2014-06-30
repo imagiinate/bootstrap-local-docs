@@ -1,0 +1,13 @@
+#Bootstrap 3.2.0 Offline Docs
+
+*Up to date with v3.2.0*
+
+##Usage
+
+1. Download the [files](https://github.com/…).
+2. Extract zip file.
+3. Open `index.html` from a browser.
+
+
+###Note
+You can compile the official docs yourself with Jekyll.
