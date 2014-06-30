@@ -4,7 +4,7 @@
 
 ##Usage
 
-1. Download the [files](https://github.com/…).
+1. Download the [files](https://github.com/imagiinate/bootstrap-local-docs/archive/master.zip).
 2. Extract zip file.
 3. Open `index.html` from a browser.
 
