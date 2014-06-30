@@ -2,6 +2,8 @@
 
 *Up to date with v3.2.0*
 
+Live Demo: http://imagiinate.github.io/bootstrap-local-docs/
+
 ##Usage
 
 1. Download the [files](https://github.com/imagiinate/bootstrap-local-docs/archive/master.zip).
